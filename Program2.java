@@ -1,4 +1,4 @@
-class Problem2 extends ConsoleProgram {
+class Program2 extends ConsoleProgram {
 
   /**
   * Description
